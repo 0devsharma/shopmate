@@ -54,11 +54,6 @@ ShopMate/
 
 ---
 
-### ✨ Live Preview
-
-> You can host it on [GitHub Pages](https://pages.github.com/)
-
----
 
 ### 👤 Author
 
